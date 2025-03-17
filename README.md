@@ -1,118 +1,107 @@
-# 🚚💨 **Estoque Fácil** 💨🚚
+<h1 align="center">🚚💨 Estoque Fácil 💨🚚</h1>
 
-<p align="center">
-  <img src="https://via.placeholder.com/150x150.png?text=Estoque+F%C3%A1cil" alt="Logo Estoque Fácil">
-</p>
-
-<h2 align="center">A solução definitiva para conectar caminhoneiros e mercados! 🌟</h2>
+<div align="center">
+  <p>Gerencie seu estoque de forma simples, rápida e eficiente!</p>
+</div>
 
 ---
 
-## 🌟 O que é o **Estoque Fácil**?
+## 📖 Introdução
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Conectando+Mercados+e+Caminhoneiros" alt="Estoque Fácil">
-</p>
-
-**Estoque Fácil** é a plataforma definitiva para quem deseja conectar caminhoneiros e mercados com facilidade e eficiência. A plataforma vai transformar como você gerencia estoques e realiza entregas. 🚛💨
-
-Com **Estoque Fácil**, você aumenta a produtividade e automatiza processos de maneira simples e eficiente. 🔥
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <p>O <strong>Estoque Fácil</strong> é uma solução completa para gestão de estoque, desenvolvida para ajudar pequenas e médias empresas a controlarem seus produtos de maneira eficaz. Com uma interface intuitiva e funcionalidades poderosas, você nunca mais vai se preocupar com falta de produtos ou excesso de inventário.</p>
+</div>
 
 ---
 
-## 🚀 Funcionalidades Incríveis
+## 🛠️ Funcionalidades
 
-### 🔗 **Conexão Direta**
-Mercados e caminhoneiros podem se conectar instantaneamente, sem intermediários, facilitando a comunicação e o processo de entrega.
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 16px;">
+  <h3>✨ Controle de Estoque</h3>
+  <ul>
+    <li>Adicione, edite ou remova produtos com facilidade.</li>
+    <li>Acompanhe o saldo atualizado em tempo real.</li>
+  </ul>
+</div>
 
-### 📦 **Gestão de Estoques**
-Gerencie seu estoque com facilidade. Fornecedores podem adicionar, editar e controlar os produtos diretamente na plataforma.
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 16px;">
+  <h3>📊 Relatórios Detalhados</h3>
+  <ul>
+    <li>Gere relatórios de entrada e saída de produtos.</li>
+    <li>Visualize gráficos de movimentação de estoque.</li>
+  </ul>
+</div>
 
-### 📅 **Solicitações de Entrega**
-Com o **Estoque Fácil**, mercados podem fazer solicitações de entrega a qualquer momento — seja manualmente ou agendando para o futuro.
-
-### 🤖 **Automação de Processos**
-Deixe as coisas mais fáceis! Configuração de solicitações recorrentes para otimizar tempo e processos.
-
-### 📲 **Notificações Automáticas**
-Acompanhe em tempo real o status das suas entregas com notificações instantâneas.
-
----
-
-## ⚙️ Como Funciona?
-
-1. **Cadastre-se**: Crie seu perfil e comece a conectar mercados e caminhoneiros de forma simples.
-2. **Adicione Produtos**: Fornecedores adicionam os itens prontos para serem entregues.
-3. **Solicite ou Realize Entregas**: Mercados solicitam entregas e caminhoneiros aceitam.
-4. **Acompanhe Tudo em Tempo Real**: Acompanhe o progresso das entregas em tempo real.
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Acompanhamento+em+Tempo+Real" alt="Acompanhamento em Tempo Real">
-</p>
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 16px;">
+  <h3>🔔 Alertas Inteligentes</h3>
+  <ul>
+    <li>Receba notificações quando o estoque estiver baixo.</li>
+    <li>Configure limites personalizados para cada produto.</li>
+  </ul>
+</div>
 
 ---
 
-## 🖥️ Tecnologias Utilizadas
+## 🖥️ Tecnologias
 
-A plataforma **Estoque Fácil** foi construída com as melhores ferramentas para garantir alto desempenho e escalabilidade:
-
-<table align="center">
-  <tr>
-    <td><b>Frontend:</b></td>
-    <td>React.js - Interface moderna e responsiva</td>
-  </tr>
-  <tr>
-    <td><b>Backend:</b></td>
-    <td>Node.js + Express - Desempenho robusto e eficiente</td>
-  </tr>
-  <tr>
-    <td><b>Banco de Dados:</b></td>
-    <td>MySQL - Consistência e escalabilidade nos dados</td>
-  </tr>
-  <tr>
-    <td><b>Segurança:</b></td>
-    <td>JWT - Plataforma segura e confiável</td>
-  </tr>
-  <tr>
-    <td><b>API:</b></td>
-    <td>RESTful - Flexível e fácil de integrar com outros sistemas</td>
-  </tr>
-</table>
-
----
-
-## 🏆 O Que Está por Vir?
-
-Se você acha que o **Estoque Fácil** já é incrível, espere até ver as novas funcionalidades que estamos preparando! 🚀
-
-Estamos sempre atualizando a plataforma para garantir que sua experiência seja cada vez melhor!
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <table>
+    <tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Banco de Dados</th>
+    </tr>
+    <tr>
+      <td>React</td>
+      <td>Node.js</td>
+      <td>PostgreSQL</td>
+    </tr>
+    <tr>
+      <td>HTML5</td>
+      <td>Express</td>
+      <td>MongoDB</td>
+    </tr>
+    <tr>
+      <td>CSS3</td>
+      <td>TypeScript</td>
+      <td>Redis</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🎉 Junte-se à Revolução do Estoque!
+## 🚀 Como Funciona
 
-Está pronto para transformar a maneira como você gerencia as entregas? O **Estoque Fácil** é a chave para aumentar a produtividade e otimizar seus processos, tudo de forma simples e rápida. 💼
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <ol>
+    <li><strong>Cadastro de Produtos</strong>: Adicione novos produtos ao sistema com nome, quantidade e preço.</li>
+    <li><strong>Movimentação</strong>: Registre entradas e saídas de produtos.</li>
+    <li><strong>Monitoramento</strong>: Acompanhe o estoque em tempo real e receba alertas.</li>
+  </ol>
+</div>
 
-<p align="center">
-  <a href="https://www.estoque-facil.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visite%20a%20Plataforma-Agora-brightgreen.svg" alt="Visite Estoque Fácil">
-  </a>
-</p>
+---
+
+## ⚙️ Como Rodar o Projeto
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <ol>
+    <li>Clone o repositório:</li>
+    <pre><code>git clone https://github.com/seu-usuario/estoque-facil.git</code></pre>
+    <li>Instale as dependências:</li>
+    <pre><code>npm install</code></pre>
+    <li>Configure o banco de dados:</li>
+    <pre><code>npm run setup-db</code></pre>
+    <li>Inicie o servidor:</li>
+    <pre><code>npm start</code></pre>
+  </ol>
+</div>
 
 ---
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade para usar, modificar e distribuir o código!
-
----
-
-<p align="center">
-  <a href="https://twitter.com/EstoqueFacil" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/EstoqueFacil.svg?style=social&label=Follow%20Estoque%20Fácil" alt="Siga no Twitter">
-  </a>
-</p>
-
----
-
-<h3 align="center">Vamos transformar a logística! 🚚💨</h3>
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <p>Este projeto está licenciado sob a <a href="https://opensource.org/licenses/MIT" style="text-decoration: none; color: #007BFF; transition: color 0.3s ease;" onmouseover="this.style.color='#0056b3'" onmouseout="this.style.color='#007BFF'">Licença MIT</a>.</p>
+</div>
